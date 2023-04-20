@@ -1,0 +1,13 @@
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\bin\Release\TCPServer.exe.config
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\bin\Release\TCPServer.exe
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\bin\Release\TCPServer.pdb
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\bin\Release\Newtonsoft.Json.dll
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\bin\Release\Newtonsoft.Json.xml
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\obj\Release\TCPServer.csprojAssemblyReference.cache
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\obj\Release\TCPServer.Properties.Resources.resources
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\obj\Release\TCPServer.TCPServer.resources
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\obj\Release\TCPServer.csproj.GenerateResource.cache
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\obj\Release\TCPServer.csproj.CoreCompileInputs.cache
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\obj\Release\TCPServer.csproj.CopyComplete
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\obj\Release\TCPServer.exe
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPServer\obj\Release\TCPServer.pdb

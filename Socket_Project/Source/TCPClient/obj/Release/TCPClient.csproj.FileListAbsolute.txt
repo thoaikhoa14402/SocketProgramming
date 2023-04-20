@@ -1,0 +1,16 @@
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\bin\Release\TCPClient.exe.config
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\bin\Release\TCPClient.exe
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\bin\Release\TCPClient.pdb
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\bin\Release\Newtonsoft.Json.dll
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\bin\Release\Newtonsoft.Json.xml
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.csprojAssemblyReference.cache
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.ClientConnectForm.resources
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.Properties.Resources.resources
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.RegisterForm.resources
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.SearchForm.resources
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.UserLoginForm.resources
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.csproj.GenerateResource.cache
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.csproj.CoreCompileInputs.cache
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.csproj.CopyComplete
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.exe
+F:\Bin\Desktop\socket 2021\Socket_Project\TCPClient\obj\Release\TCPClient.pdb
